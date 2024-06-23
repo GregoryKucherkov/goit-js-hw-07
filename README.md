@@ -1,4 +1,4 @@
-Homework number 3.
+Homework number 7.
 
 1. Task -> створити скрипт який: Порахує й виведе в консоль кількість категорій
    в ul#categories, тобто елементів li.item. Для кожного елемента li.item у
